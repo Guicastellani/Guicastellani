@@ -12,3 +12,5 @@
 <a href="https://linkedin.com/in/guicastellani/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" /> </a>
 <a href="https://www.instagram.com/gui.castellani/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" /> </a>
 <a href="https://twitter.com/Guicastm"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /> </a>
+
+> "However difficult life may seem, there is always something you can do and succeed at" -Stephen Hawking
