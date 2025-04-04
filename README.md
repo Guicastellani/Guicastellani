@@ -70,6 +70,6 @@
 
 ###
 
-> <h5 align="left">"However difficult life may seem, there is always something you can do and succeed at" -Stephen Hawking</h5>
+<h5 align="left">"However difficult life may seem, there is always something you can do and succeed at" -Stephen Hawking</h5>
 
 ###
