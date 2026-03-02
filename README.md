@@ -1,5 +1,5 @@
 <h1 align="left">🤘 &lt Hello World!/ &gt</h1>
-<img src="./stacks.png" alt="My Stacks Img" width="1000">
+<img src="./stacks.png" alt="My Stacks Img" width="1920">
 <a>
 Software Developer with a strong foundation in SQL and data-oriented development, focused on building clean, maintainable, and scalable software. <br><br>
 Experienced in HTML, CSS, JavaScript/TypeScript, Node.js and Loopback.io applying SOLID principles, Clean Code, and MVC architecture to design well-structured applications. Comfortable using TailwindCSS to create efficient, modern user interfaces. <br><br>
