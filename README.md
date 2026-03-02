@@ -1,11 +1,10 @@
 <h1 align="left">🤘 &lt Hello World!/ &gt</h1>
+<img src="./stacks.png" alt="My Stacks Img" width="1000">
 <a>
 Software Developer with a strong foundation in SQL and data-oriented development, focused on building clean, maintainable, and scalable software. <br><br>
-Experienced in HTML, CSS, JavaScript, and Node.js, applying SOLID principles, Clean Code, and MVVM architecture to design well-structured applications. Comfortable using TailwindCSS to create efficient, modern user interfaces. <br><br>
-Familiar with Git for basic version control and experienced in agile environments, including Scrum and Kanban, collaborating in iterative workflows focused on continuous delivery and continuous improvement. <br><br>
-Driven by continuous learning, with a strong interest in software architecture, best practices, and modern web technologies.
+Experienced in HTML, CSS, JavaScript/TypeScript, Node.js and Loopback.io applying SOLID principles, Clean Code, and MVC architecture to design well-structured applications. Comfortable using TailwindCSS to create efficient, modern user interfaces. <br><br>
+Familiar with Git for basic version control and experienced in agile environments, including Scrum and Kanban, collaborating in iterative workflows focused on continuous delivery and continuous improvement.
 </a>
-###
 
 <h2 align="left">📱 Socials</h2>
 
@@ -38,7 +37,6 @@ Driven by continuous learning, with a strong interest in software architecture, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###
